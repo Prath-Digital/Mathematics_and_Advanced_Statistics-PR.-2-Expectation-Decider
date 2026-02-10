@@ -1,4 +1,3 @@
-
 # Expectation Decider 🚀📊🎯
 
 ## Project Overview 📚🧠
@@ -45,7 +44,14 @@ The notebook and supporting materials cover the following tasks from the assignm
 
 1. Install Python and Jupyter (or use JupyterLab / VS Code notebook support). 🐍💡
 
-2. Install typical data-analysis packages if you plan to run the notebook interactively:
+2. Clone this repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/Prath-Digital/Mathematics_and_Advanced_Statistics-PR.-2-Expectation-Decider.git
+cd Mathematics_and_Advanced_Statistics-PR.-2-Expectation-Decider
+``` 
+
+3. Install typical data-analysis packages if you plan to run the notebook interactively:
 
 ```bash
 python -m pip install -r requirements.txt
